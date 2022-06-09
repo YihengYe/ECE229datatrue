@@ -1,1 +1,2 @@
-# ECE229datatrue
+# ECE229 data for project group 4
+This is the repository that is used for storing the large csv file used by group 4, US Newborn Naming Analysis. Please use git lfs service to pull those file (git lfs pull). Please ensure that you have install git lfs and please move the baby-names-state.csv to client/ directory for our project.
